@@ -84,7 +84,7 @@ Here is an overview of the project file structure:
 
 ## How to Save the Model and Scalers 💾
 
-After training the model, save the following components to disk:
+After training the model, save the following components to project folder/disk:
 
 * **KMeans Model**: The trained KMeans model for clustering customer segments. 🤖
 * **LabelEncoders**: Encoders used to transform categorical variables (e.g., 'Satisfaction Level', 'Membership Type'). 🔄
